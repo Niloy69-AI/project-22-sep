@@ -20,8 +20,6 @@ html {
     margin: auto;
   }
 
-  /* ////........Navbar.......//// */
-
   .navbar {
     position: fixed;
     width: 100%;
@@ -61,9 +59,7 @@ html {
     font-size: 2rem;
   }
 
-  /* ////........Home Content........//// */
-
-  .home-content .name {
+  / .home-content .name {
     position: absolute;
     top: 47%;
     left: 50%;
@@ -98,8 +94,6 @@ html {
     color: #07374a;
     padding: 1rem;
   }
-
-  /* ////........About Me........//// */
 
   .about-me {
     background-color: #07374a;
@@ -147,8 +141,6 @@ html {
   .about-content .right-content {
     flex-basis: 45%;
   }
-
-  /* ///.....Skill Bar....../// */
 
   .skills-bar {
     padding: 25px 30px;
@@ -293,8 +285,6 @@ html {
     display: none;
   }
 
-  /* ////.....Portfolio......///// */
-
   .portfolio {
     background: #25b79f;
     padding: 6rem 0;
@@ -375,8 +365,6 @@ html {
   .proj-1 .proj1-details button:hover .fas {
     color: #f0f0e6;
   }
-
-  /* ////.....proj2.....//// */
 
   .proj-2 {
     display: flex;
@@ -468,8 +456,6 @@ html {
     border-bottom: 2px solid #f0f0e6;
   }
 
-  /* ////......Contact......///// */
-
   .contact {
     background: #07374a;
     position: relative;
@@ -514,8 +500,6 @@ html {
   .contact-content a:hover {
     color: #f0f0e6;
   }
-
-  /* ////......Media query......//// */
 
   @media (max-width: 500px) {
     html {
